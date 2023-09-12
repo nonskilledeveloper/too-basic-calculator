@@ -5,7 +5,7 @@ As it's title suggest, this is a too basic calculator that I've made in rust, th
 This software only makes very simple operations, just like plus, rest multiply or divide numbers, we are going 
 
 ## How to run it
-![[[Pasted image 20230912113137.png](https://i.postimg.cc/NfBWvP7r/Pasted-image-20230912113137.png)]]
+![Pasted 1]([https://ejemplo.com/imagen.jpg](https://i.postimg.cc/NfBWvP7r/Pasted-image-20230912113137.png))
 In order to run this project we only need to access to the folder in our terminal, and run the command:
 
 ```bash
@@ -19,9 +19,9 @@ In case we want to share an executable, we can build it by using the command:
 cargo build --release
 ```
 
-![[[Pasted image 20230912114100.png](https://i.postimg.cc/TY0BdqCN/Pasted-image-20230912114100.png)]]
+![Pasted 2]([https://ejemplo.com/imagen.jpg](https://i.postimg.cc/TY0BdqCN/Pasted-image-20230912114100.png))
 
 Once we execute this command, we will find the executable file inside the folder target/release/
 
-![[[Pasted image 20230912113927.png](https://i.postimg.cc/P5q9Pp7X/Pasted-image-20230912113927.png)]]
+![Pasted 3]([https://ejemplo.com/imagen.jpg](https://i.postimg.cc/P5q9Pp7X/Pasted-image-20230912113927.png))
 There we'll have a file named too-basic-calculator which is a binary
